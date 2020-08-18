@@ -1,18 +1,18 @@
 1
-n
+O(n)
 n^2
-3^n
+log(n)
 
-1
+O(n)
 n^2
-2n
+O(n)
 
-1
-n
-n
-n
+O(n)
+O(n)
+O(n)
+O(n)
 
-1
-n
-n
-n^2 or 26
+O(n)
+O(n)
+O(n)
+O(n)
